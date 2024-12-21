@@ -59,7 +59,11 @@ OpenWeatherMap for providing weather data.
 Inspiration for design from modern weather apps.
 
 Contact
+
 Name: Nadipalli Jaswanth
+
 Email: nadipallijaswanth2005@gmail.com or  422224@studen.nitandhra.ac.in
+
 LinkedIn: www.linkedin.com/in/jaswanth-nadipalli-0a51982a4
+
 GitHub: https://github.com/RoronoaZoro-0-7
