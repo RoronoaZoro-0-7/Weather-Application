@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/styles/styles2.css">
+</head>
+<body>
+    <a href="/index" class="home-link">Home</a>
+    <h2 id="city" style="display: none;">
+        <% if (cities && cities.length > 0) { %>
+            <%= cities.map(city => city.city).join(', ') %>
+        <% } %>
+    </h2>    
+    <div class="header">
+       
+    </div>
+    <script src="/javascripts/history.js"></script>
+</body>
+</html>
